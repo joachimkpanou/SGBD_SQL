@@ -1,0 +1,27 @@
+
+A =8
+B = 10
+C = 13
+D = 11
+E 15
+F = 4
+G =6
+H = 12
+I = 9
+J= J
+K= 3
+L = 2
+M = 5
+N =17
+O =7
+P = 1
+Q 16
+
+
+III Information of each variable 
+? variableempty_seat  = C
+? seats_count?? = A /B
+? variablenumber_of_visitors =F
+? users variable = 
+? variablenombre_sièges = A
+? fill_last_number?? =E 
